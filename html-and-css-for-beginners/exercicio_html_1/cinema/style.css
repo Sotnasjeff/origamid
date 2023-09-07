@@ -1,0 +1,24 @@
+.hoje{
+    color: darkred;
+}
+
+.amanhã{
+    color: darkblue;
+}
+
+.estados{
+    color: seagreen;
+    
+}
+
+h2 , a {
+    text-decoration: none;    
+}
+
+p {
+    font-size: 20px;
+}
+
+html {
+    font-family: Arial;
+}

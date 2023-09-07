@@ -1,0 +1,23 @@
+#intro {
+    color: silver;
+}
+
+.codigo {
+    color: blue;
+}
+
+.design {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.grande {
+    font-size: 58px;
+}
